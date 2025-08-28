@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Alice Johnson",
+    "skillset": ["Dart", "Flutter", "Firebase"],
+    "likelihoodPercentage": 85.5
+  },
+  {
+    "name": "David Williams",
+    "skillset": ["Flutter", "UI/UX", "Riverpod"],
+    "likelihoodPercentage": 92.1
+  },
+  {
+    "name": "Bob Smith",
+    "skillset": ["Java", "Kotlin", "Android"],
+    "likelihoodPercentage": 72.0
+  },
+  {
+    "name": "Charlie Brown",
+    "skillset": ["Project Management", "Agile"],
+    "likelihoodPercentage": 68.5
+  },
+  {
+    "name": "Eve Davis",
+    "skillset": ["Dart", "GetX", "Node.js"],
+    "likelihoodPercentage": 89.0
+  }
+]
