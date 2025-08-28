@@ -12,7 +12,7 @@ import os
 # API_KEY = os.getenv("OPENROUTER_API_KEY")
 # For simplicity in this example, we'll use a placeholder.
 # IMPORTANT: Replace this placeholder with your actual key, preferably via environment variables.
-API_KEY = "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"
+API_KEY = "API_KEY"
 
 
 def get_skills_from_text(text_block):
@@ -141,4 +141,5 @@ if __name__ == "__main__":
         print("\nChecking for skill match...")
         match_result = check_skill_match(skill_set, job_role)
         
+
         print(f"\nAre the skills sufficient for a {job_role}? \nAnswer: {match_result}")
